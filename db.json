@@ -16,13 +16,15 @@
             "id" : 1,
             "post_id" : 1,
             "author" : "kingsman",
-            "content" : "АФФТАР ДУРАГГГГГГГГГ"
+            "content" : "АФФТАР ДУРАГГГГГГГГГ",
+            "likes_count" : 2
         },
         {
             "id" : 2,
             "post_id" : 2,
             "author" : "kingsman",
-            "content" : "а это ваще ктооооооооооооооооооооооооооооо?"
+            "content" : "а это ваще ктооооооооооооооооооооооооооооо?",
+            "likes_count" : 4
         }
     ]
 }
