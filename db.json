@@ -1,0 +1,17 @@
+{
+    "posts": [
+        {
+            "id" : 1,
+            "title" : "hello world",
+            "content" : "goodbye world"
+        }
+    ],
+    "comments": [
+        {
+            "id" : 1,
+            "post_id" : 1,
+            "author" : "kingsman",
+            "content" : "goodbye world"
+        }
+    ]
+}
